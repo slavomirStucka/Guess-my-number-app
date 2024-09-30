@@ -12,3 +12,6 @@ This web application is a **Guess my number** where players try to guess a numbe
 1. Open the game in your web browser.
 2. Enter your guess and submit it.
 3. Try to guess the correct number in the fewest attempts!
+
+![Screenshot of Guess my number](screenshot.png)
+
